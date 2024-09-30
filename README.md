@@ -1,1 +1,1 @@
-# sticker_placement_optimizer
+# sticker_sheet_optimizer
